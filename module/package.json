@@ -1,0 +1,12 @@
+{
+  "name": "module2",
+  "version": "1.0.0",
+  "description": "Learning the module packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Roshan Kumar Yadav",
+  "license": "ISC"
+}
